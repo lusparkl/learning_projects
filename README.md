@@ -24,5 +24,24 @@ Welcome to the **Learning Projects Repository**! This repository is dedicated to
 
 ---
 
+### 2. Movies Statistics
+**Objective:** Fetch and analyze movie data from an external API to create a dataset for further exploration.
+
+**Description:**
+- This project uses Python libraries such as Pandas for data manipulation and Requests for API interaction.
+- The data is fetched from an external movie database API, processed, and saved as a CSV file for further analysis.
+- The dataset includes information such as movie titles, release years, ratings, genres, and runtime.
+
+**Key Features:**
+- API data fetching and error handling.
+- Data cleaning and transformation.
+- Exporting processed data to a CSV file.
+
+**Files:**
+- `create_dataset.py`: Script for fetching and processing movie data.
+- `movies_statistics.ipynb`: Jupyter Notebook for interactive exploration and analysis.
+
+---
+
 More projects will be added to this repository as learning progresses. Stay tuned!
 
